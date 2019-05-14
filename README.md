@@ -1,4 +1,4 @@
-Compiled with Java 8.211 JDK
+Compiled with Java 8.211 JDK Make sure this is set in the IDE
 
 1. Download and install postgres 11
 2. psql -u postgres
