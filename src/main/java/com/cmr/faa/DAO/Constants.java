@@ -60,4 +60,7 @@ public class Constants {
     public static final String MODEL_COLUMN_NAME = "Model";
 
     public static String MODELS_TO_ADs_TABLE_NAME = "Models_to_ADs";
+    public static final String DEFAULT_SERIAL_NUMBER = "NO S/N Specified";
+    public static final String DEFAULT_MANUFACURER = "NO Manufacturer Specified";
+    public static final String DEFAULT_MODEL = "NO Model Specified";
 }
